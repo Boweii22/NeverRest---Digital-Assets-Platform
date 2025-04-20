@@ -7,6 +7,9 @@ The **Cross-Game Marketplace** is a blockchain-powered platform built on **Polka
 
 Our marketplace leverages **Polkadot's Substrate framework**, ensuring **scalability**, **shared security**, and **native interoperability**. Players can own, buy, and sell items across various games, enhancing both gameplay experience and brand engagement.
 
+## LOOM STYLE VIDEO - FULL PROJECT DESCRIPTION 
+https://drive.google.com/file/d/14zdkYLqg2152GVaSFCJolZOwSoyl_Txm/view?usp=sharing
+
 ### Key Features:
 - **Cross-game interoperability**: Transfer assets across games and ecosystems.
 - **Tokenized assets**: Use NFTs, skins, swords, and digital currencies.
