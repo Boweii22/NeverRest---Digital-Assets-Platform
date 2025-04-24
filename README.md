@@ -181,6 +181,12 @@ This system ensures that assets are securely listed, transferred, and tracked on
 
 ---
 
+## Canva Presentation 
+https://www.canva.com/design/DAGlFh4UkQU/FMeqjYpD3WjJeuymZTDqSA/edit?utm_content=DAGlFh4UkQU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+---
+
+
 ## Contributing
 
 If you’d like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. We welcome contributions to make the platform more robust and feature-rich!
